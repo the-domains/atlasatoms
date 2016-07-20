@@ -1,0 +1,14 @@
+layout_spectrum: 0.9854254
+typography_spectrum: 0.07250267
+color:
+  saturation: 0.9951664
+  brandStrength: 0.4042145
+  lightness: 1
+  rhythmicContrast: 0.9919019
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: AtlasAtoms
